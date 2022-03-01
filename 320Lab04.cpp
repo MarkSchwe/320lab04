@@ -32,7 +32,7 @@ prefixoutput(charRoot);
 cout << endl;
 postfixoutput(charRoot);
 cout << endl;
-displayTree(charRoot,1);
+displayTree(charRoot,1); // from d_tnodel.h
 cout << endl;
 return 0;
 }
